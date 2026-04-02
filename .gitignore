@@ -34,3 +34,6 @@ Plugins/*/Intermediate/
 Saved/*
 !Saved/Config/
 !Saved/Config/Windows/DefaultEditorPerProjectUserSettings.ini
+
+# --- External / Purchased Assets (Git LFS 제외, 별도 관리) ---
+Content/External/
